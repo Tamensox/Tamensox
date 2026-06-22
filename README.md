@@ -1,4 +1,5 @@
 ## Hi there 👋
+I have more than 15 years of experience as a Front-End Developer, focused on UI/UX. Passionate about creating beautiful and functional interfaces. Crazy about JavaScript and CSS, especially in animations that make user interaction better.
 
 <!--
 **Tamensox/Tamensox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
